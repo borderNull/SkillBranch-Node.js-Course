@@ -1,0 +1,14 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "this is backend node tutorial on skb ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxim Butin",
+  "license": "ISC",
+  "dependencies": {
+    "skb": "^1.0.0"
+  }
+}
